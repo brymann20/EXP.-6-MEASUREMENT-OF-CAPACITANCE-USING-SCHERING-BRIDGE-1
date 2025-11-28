@@ -10,7 +10,7 @@ Apply Supply voltage (3V) from the signal generator with arbitrary   frequency.
 
 Set the unknown Capacitance value from 'Set Capacitor Value' tab by clicking on 'Set' button.
 
-Then switch on the supply to get millivoltmeter deflection.
+Then switch on the supply to get millivoltmeter deflection..
 
 Choose the values of   C2, C4, R3 and R4 from the capacitance and   resistance box. Varry the values to some particular values to achieve   "Null".
 
